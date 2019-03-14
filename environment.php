@@ -1,0 +1,9 @@
+<?php
+
+// ISSO SÓ FICA ATIVO EM HOSPEDAGEM LOCAL 
+
+define("ENVIRONMENT", "development");
+
+// ISSO SÓ FICA ATIVO NA HOSPEDAGEM EM SERVIDOR EXTERNO
+
+//define("ENVIRONMENT", "production");
