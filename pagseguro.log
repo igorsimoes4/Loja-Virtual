@@ -1,0 +1,4 @@
+
+15/03/2019 02:48:32 PagSeguro.Session[info]: Begin
+15/03/2019 02:48:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 02:48:33 PagSeguro.Session[info]: Session ID: 24c5bb2db37f46dbb07b13784c594dcb

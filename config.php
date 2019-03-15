@@ -31,3 +31,13 @@ try {
 	echo "ERRO: ".$e->getMessage();
 	exit;
 }
+
+\PagSeguro\Library::initialize();
+\PagSeguro\Library::cmsVersion()->setName("LojaNova")->setRelease("1.0.0");
+\PagSeguro\Library::moduleVersion()->setName("LojaNova")->setRelease("1.0.0");
+
+\PagSeguro\Configuration\Configure::setEnvironment('sandbox');
+// \PagSeguro\Configuration\Configure::setEnvironment('production');//
+\PagSeguro\Configuration\Configure::setAccountCredentials('igor01silveira@gmail.com', 'C2FFA0D898124BEC99EEA6535AB6B081');
+\PagSeguro\Configuration\Configure::setCharset('UTF-8');
+\PagSeguro\Configuration\Configure::setLog(true, 'pagseguro.log');

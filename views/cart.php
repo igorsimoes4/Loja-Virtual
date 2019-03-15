@@ -75,7 +75,7 @@ CEP DE ENTREGA:
 	</form>
 <hr/>
 
-<?php if($frete > 0): ?>
+<?php if(isset($frete) > 0): ?>
 	
 	<form method="POST" action="<?php echo BASE_URL; ?>cart/payment_redirect" float="right">
 		<div class="row">
@@ -96,6 +96,5 @@ CEP DE ENTREGA:
 			</div>
 		</div>
 	</form>
-
 <?php endif; ?>
 
