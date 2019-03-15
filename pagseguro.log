@@ -125,3 +125,135 @@
 15/03/2019 04:07:18 PagSeguro.Session[info]: Begin
 15/03/2019 04:07:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
 15/03/2019 04:07:18 PagSeguro.Session[info]: Session ID: 56718eefb4ba4070ba3db9b243be1eb4
+15/03/2019 04:13:45 PagSeguro.Session[info]: Begin
+15/03/2019 04:13:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:13:46 PagSeguro.Session[info]: Session ID: 9d0d8a8d5c4549afbbe794b81600fddf
+15/03/2019 04:14:27 PagSeguro.Session[info]: Begin
+15/03/2019 04:14:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:14:27 PagSeguro.Session[info]: Session ID: c1ad4f1282ba43c3ab9a91edd05b14c9
+15/03/2019 04:19:06 PagSeguro.Session[info]: Begin
+15/03/2019 04:19:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:19:06 PagSeguro.Session[info]: Session ID: e0bba2c618a0404abe25e5a6ccc89c30
+15/03/2019 04:20:00 PagSeguro.Session[info]: Begin
+15/03/2019 04:20:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:20:01 PagSeguro.Session[info]: Session ID: 7b01990b2df548f3b56959810c7ea10e
+15/03/2019 04:20:57 PagSeguro.Session[info]: Begin
+15/03/2019 04:20:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:20:59 PagSeguro.Session[info]: Session ID: 047d87408542428e95e8e43b5e6d2663
+15/03/2019 04:22:02 PagSeguro.Session[info]: Begin
+15/03/2019 04:22:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:22:02 PagSeguro.Session[info]: Session ID: 2f95ae4f9b92490591cbd2ba98bdae08
+15/03/2019 04:24:24 PagSeguro.Session[info]: Begin
+15/03/2019 04:24:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:24:25 PagSeguro.Session[info]: Session ID: 296576f537a24e7a919f5af7c4db743d
+15/03/2019 04:25:09 PagSeguro.Session[info]: Begin
+15/03/2019 04:25:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:25:10 PagSeguro.Session[info]: Session ID: db7b8dc55bde4a05b85c11215b589a0b
+15/03/2019 04:26:24 PagSeguro.Session[info]: Begin
+15/03/2019 04:26:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:26:24 PagSeguro.Session[info]: Session ID: 368b3f9950874c92b8e35478cd56feb4
+15/03/2019 04:30:21 PagSeguro.Session[info]: Begin
+15/03/2019 04:30:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:30:21 PagSeguro.Session[info]: Session ID: 2c7b216fb8574bc2b0dc63149c32fc80
+15/03/2019 04:31:36 PagSeguro.Session[info]: Begin
+15/03/2019 04:31:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:31:37 PagSeguro.Session[info]: Session ID: 41bdc4706bcd4ab59386d108ddca23ab
+15/03/2019 04:31:55 PagSeguro.Session[info]: Begin
+15/03/2019 04:31:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:31:56 PagSeguro.Session[info]: Session ID: 6a25e7cb4d5143aa819cbab4dc4947f1
+15/03/2019 04:34:41 PagSeguro.Session[info]: Begin
+15/03/2019 04:34:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:34:42 PagSeguro.Session[info]: Session ID: 639973e990354641a65ea13d72e385ff
+15/03/2019 04:35:05 PagSeguro.Session[info]: Begin
+15/03/2019 04:35:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:35:06 PagSeguro.Session[info]: Session ID: 068967a490704e5ab62508dc9061ab89
+15/03/2019 04:35:19 PagSeguro.Session[info]: Begin
+15/03/2019 04:35:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:35:19 PagSeguro.Session[info]: Session ID: 15af1474dfa645d19489fd834817ab34
+15/03/2019 04:36:30 PagSeguro.Session[info]: Begin
+15/03/2019 04:36:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:36:30 PagSeguro.Session[info]: Session ID: d351f766dbaf4822951bd7e4bed72c81
+15/03/2019 04:37:18 PagSeguro.Session[info]: Begin
+15/03/2019 04:37:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:37:18 PagSeguro.Session[info]: Session ID: f437cd5741df4b76b7e0edb71517e60b
+15/03/2019 04:37:52 PagSeguro.Session[info]: Begin
+15/03/2019 04:37:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:37:53 PagSeguro.Session[info]: Session ID: 1ba5dfd46cd94aab92a22d8dbc1371bd
+15/03/2019 04:38:46 PagSeguro.Session[info]: Begin
+15/03/2019 04:38:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:38:46 PagSeguro.Session[info]: Session ID: 4d6b4c5d20c644c6bef473e326bb5dbf
+15/03/2019 04:38:59 PagSeguro.Session[info]: Begin
+15/03/2019 04:38:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:39:00 PagSeguro.Session[info]: Session ID: 62f330a774ff4be4870ac5eb5ff1d41d
+15/03/2019 04:39:30 PagSeguro.Session[info]: Begin
+15/03/2019 04:39:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:39:31 PagSeguro.Session[info]: Session ID: 628f3eced57f4d2c8b34b6d0e6bf5043
+15/03/2019 04:40:53 PagSeguro.Session[info]: Begin
+15/03/2019 04:40:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:40:53 PagSeguro.Session[info]: Session ID: a811d94a47d24337973430723d73c445
+15/03/2019 04:44:51 PagSeguro.Session[info]: Begin
+15/03/2019 04:44:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:44:52 PagSeguro.Session[info]: Session ID: 700bd6ceb66b4206a653f05afa2dbdcb
+15/03/2019 04:46:59 PagSeguro.Session[info]: Begin
+15/03/2019 04:46:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:47:00 PagSeguro.Session[info]: Session ID: 69edcf72707c4b5484c6cdcbb0428c7d
+15/03/2019 04:57:21 PagSeguro.Session[info]: Begin
+15/03/2019 04:57:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:57:21 PagSeguro.Session[info]: Session ID: 773d685066b24cf8b94730e3e055d4b1
+15/03/2019 04:57:46 PagSeguro.Session[info]: Begin
+15/03/2019 04:57:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:57:47 PagSeguro.Session[info]: Session ID: c5fb401cdec94d5eb8b646b75ca75f95
+15/03/2019 04:59:46 PagSeguro.Session[info]: Begin
+15/03/2019 04:59:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 04:59:46 PagSeguro.Session[info]: Session ID: c5039f1e4677477d9984f9b74682ba6e
+15/03/2019 05:00:08 PagSeguro.Session[info]: Begin
+15/03/2019 05:00:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:00:09 PagSeguro.Session[info]: Session ID: 79d558dcd7684e33b076e4bb06b8f684
+15/03/2019 05:00:34 PagSeguro.Session[info]: Begin
+15/03/2019 05:00:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:00:35 PagSeguro.Session[info]: Session ID: 87a72b5e7bc8456e87e8103dba874a87
+15/03/2019 05:00:45 PagSeguro.Session[info]: Begin
+15/03/2019 05:00:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:00:45 PagSeguro.Session[info]: Session ID: d8ed32e72d5c48818c2b95010dc84cde
+15/03/2019 05:01:05 PagSeguro.Session[info]: Begin
+15/03/2019 05:01:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:01:06 PagSeguro.Session[info]: Session ID: bba3811e6a77474d86784b457a6a8358
+15/03/2019 05:04:35 PagSeguro.Session[info]: Begin
+15/03/2019 05:04:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:04:36 PagSeguro.Session[info]: Session ID: d16f492faa2d4a68a0073f2bbf2b4352
+15/03/2019 05:13:44 PagSeguro.Session[info]: Begin
+15/03/2019 05:13:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:13:45 PagSeguro.Session[info]: Session ID: 30730af10f7a4f9095f4c5462b24e83b
+15/03/2019 05:14:35 PagSeguro.Session[info]: Begin
+15/03/2019 05:14:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:14:36 PagSeguro.Session[info]: Session ID: db215824f5c840c7a58eead55670faa2
+15/03/2019 05:16:19 PagSeguro.Session[info]: Begin
+15/03/2019 05:16:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:16:19 PagSeguro.Session[info]: Session ID: 59574e5ee54544b1ac74d1e3df9e8d42
+15/03/2019 05:19:46 PagSeguro.Session[info]: Begin
+15/03/2019 05:19:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:19:47 PagSeguro.Session[info]: Session ID: 6c096dba0d434356885cf077e8c90380
+15/03/2019 05:21:43 PagSeguro.Session[info]: Begin
+15/03/2019 05:21:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:21:44 PagSeguro.Session[info]: Session ID: 2649b428f2474a7e8c9da84340f88221
+15/03/2019 05:26:53 PagSeguro.Session[info]: Begin
+15/03/2019 05:26:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:26:53 PagSeguro.Session[info]: Session ID: 0db97df208dc461f81508a81529803b8
+15/03/2019 05:27:29 PagSeguro.Session[info]: Begin
+15/03/2019 05:27:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:27:30 PagSeguro.Session[info]: Session ID: da99ac9366ad4b1f85002c071b12c881
+15/03/2019 05:32:03 PagSeguro.Session[info]: Begin
+15/03/2019 05:32:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:32:03 PagSeguro.Session[info]: Session ID: ad0127e1eb354350b947b078ed3c775f
+15/03/2019 05:33:24 PagSeguro.Session[info]: Begin
+15/03/2019 05:33:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:33:25 PagSeguro.Session[info]: Session ID: 5025e75e8cf341f9acbcf865b6509304
+15/03/2019 05:34:44 PagSeguro.Session[info]: Begin
+15/03/2019 05:34:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:34:44 PagSeguro.Session[info]: Session ID: 500f2ca7ff2d45d1b438d579876e187a
+15/03/2019 05:38:44 PagSeguro.Session[info]: Begin
+15/03/2019 05:38:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:38:45 PagSeguro.Session[info]: Session ID: ff8175e3b4e04984a7d465c3ebf846f9
+15/03/2019 05:39:16 PagSeguro.Session[info]: Begin
+15/03/2019 05:39:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+15/03/2019 05:39:16 PagSeguro.Session[info]: Session ID: 71574511a4854fea8377562c2ee559c5
