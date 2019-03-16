@@ -9,8 +9,9 @@ $(function(){
 					var cvvLimit = r.brand.cvvSize;
 
 					$('input[name=cartao_cvv]').attr('maxlength', cvvLimit);
+					$('input[name=cardBrand]').attr('value', cardBrand);
 
-					
+
 				},
 				error:function(r){
 

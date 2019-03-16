@@ -257,3 +257,21 @@
 15/03/2019 05:39:16 PagSeguro.Session[info]: Begin
 15/03/2019 05:39:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
 15/03/2019 05:39:16 PagSeguro.Session[info]: Session ID: 71574511a4854fea8377562c2ee559c5
+16/03/2019 04:38:15 PagSeguro.Session[info]: Begin
+16/03/2019 04:38:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+16/03/2019 04:38:15 PagSeguro.Session[info]: Session ID: 84a9bbc479674e3798ae1228959d94a3
+16/03/2019 04:38:36 PagSeguro.Session[info]: Begin
+16/03/2019 04:38:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+16/03/2019 04:38:36 PagSeguro.Session[info]: Session ID: 118d49fbc0244c77bdb3c9b424b41774
+16/03/2019 04:39:44 PagSeguro.Session[info]: Begin
+16/03/2019 04:39:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+16/03/2019 04:39:44 PagSeguro.Session[info]: Session ID: c92bc141367742edabbf484a2cf076d9
+16/03/2019 04:40:35 PagSeguro.Session[info]: Begin
+16/03/2019 04:40:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+16/03/2019 04:40:35 PagSeguro.Session[info]: Session ID: 3edd50a3779f4034b82b0901b6153fa6
+16/03/2019 04:41:11 PagSeguro.Session[info]: Begin
+16/03/2019 04:41:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+16/03/2019 04:41:11 PagSeguro.Session[info]: Session ID: d0f55f45dda94af786645bdfd78acb69
+16/03/2019 04:41:22 PagSeguro.Session[info]: Begin
+16/03/2019 04:41:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=igor01silveira%40gmail.com&token=C2FFA0D898124BEC99EEA6535AB6B081
+16/03/2019 04:41:23 PagSeguro.Session[info]: Session ID: dbb949a1a76d47738df8dfbf53d56ae2

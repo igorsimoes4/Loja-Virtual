@@ -100,6 +100,7 @@
 		    <div class="col-sm-3">
 		    	<div class="form-group">
 		    		<label>Bandeira do Cartão:</label>
+		    		<input type="text" name="cardBrand" disabled class="form-control cardBrand" />
 				</div>
 		    </div>
 			<div class="col-sm-3">
