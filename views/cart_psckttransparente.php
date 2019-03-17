@@ -91,10 +91,18 @@
 		<div class="linha"></div>
 		<h3>Informações de Pagamento</h3>
 		<div class="row">
-			<div class="col-sm-3">
+			<div class="col-sm-6">
 		    	<div class="form-group">
 		    		<label>Número do Cartão:</label>
-				    <input type="text" name="cartao_numero" class="form-control">
+				    <input type="text" name="cartao_numero" id="cartao_numero" class="form-control">
+		    	</div>
+		    </div>
+		    <div class="col-sm-6">
+		    	<div class="form-group">
+		    		<label>Parcelas:</label>
+		    		<select name="parc" class="form-control">
+
+		    		</select>
 		    	</div>
 		    </div>
 		    <div class="col-sm-3">
@@ -121,7 +129,12 @@
 					<input type="text" placeholder="YYYY" id="data_ano" name="cartao_ano" class="form-control" />
 				</div>
 		    </div>
-		
+		    <div class="col-sm-3">
+		    	<div class="form-group"></div>
+		    </div>
+			<div class="col-sm-3">
+		    	<div class="form-group"></div>
+		    </div>
 		    <div class="col-sm-4">
 		    	<div class="form-group"></div>
 		    </div>
@@ -131,7 +144,7 @@
 		    <div class="col-sm-4">
 		    	<div class="form-group">
 		    		</br>
-		    		<a href="" class="btn btn-primary form-control">Efetuar Compra</a>
+		    		<button id="efetuarCompra" class="btn efetuarCompra btn-primary form-control">Efetuar Compra</button>
 				</div>
 		    </div>
 		</div>
@@ -142,6 +155,7 @@
 <script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/psckttransparente.js"></script>
 <script type="text/javascript">
 	PagSeguroDirectPayment.setSessionId("<?php echo $sessionCode; ?>");
+	var coin = ' <?php echo $this->lang->get('COIN'); ?> ';
 </script>
 <script type="text/javascript">
     $("#cpf").mask("000.000.000-00");
@@ -151,6 +165,7 @@
     $("#comercial").mask("(00) 0000-0000");
     $("#data_mes").mask("00");
     $("#data_ano").mask("0000");
+    $("#cartao_numero").mask("0000000000000000");
 
     function limpa_formulário_cep() {
 	            //Limpa valores do formulário de cep.
